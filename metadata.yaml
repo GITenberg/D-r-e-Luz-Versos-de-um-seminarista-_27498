@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32725'
     url: http://www.gutenberg.org/2009/agents/32725
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27498#D-r-e-Luz-Versos-de-um-seminarista-
 gutenberg_issued: '2008-12-11'
 gutenberg_type: Text
 identifiers:
